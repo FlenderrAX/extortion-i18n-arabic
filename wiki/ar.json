@@ -1,0 +1,16 @@
+{
+  "achievement-page-title": "الإنجازات",
+  "achievement-page-description": "قائمة إنجازات لعبة Extortion على Steam.",
+  "chapter_index": "الفصل رقم %number%",
+  "achievement_in_story": "يتم فتحه أثناء متابعة القصة.",
+  "achievement_exclusive_with": ".\"%achievementname%\" لا يمكن القيام بذلك في نفس الملف المحفوظ باسم",
+  "servers-page-title": "Servers",
+  "servers-page-description": "قائمة الخوادم في لعبة Extortion على Steam.",
+  "servers-page-table-ip-address": "عنوان IP",
+  "servers-page-table-username": "اسم المستخدم",
+  "servers-page-table-password": "كلمة المرور",
+  "servers-page-table-firewall": "جدار الحماية",
+  "servers-page-table-firewall-none": "None",
+  "servers-page-table-firewall-reset-time-strict": "يرفع مرة أخرى بعد %duration% ثانية.",
+  "servers-page-table-firewall-reset-time-random": "يرفع مرة أخرى بعد %min% إلى %max% ثانية."
+}
